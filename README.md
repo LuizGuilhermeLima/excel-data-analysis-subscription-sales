@@ -7,8 +7,12 @@ Welcome to my Excel Portfolio Project! This project is a testament to the power 
 ## Key Features:
 
 Exploratory Data Analysis (EDA) with Pivot Tables: Leveraging Pivot Tables, I've conducted in-depth exploration of the dataset, effortlessly summarizing and visualizing key trends and patterns.
+
 Data Manipulation and Analysis: Utilizing various Excel functions such as SWITCH(), IF(), IFS(), CONCAT(), SUMIF(), and SUMIFS(), I've created calculated columns, segmented customers, and derived valuable insights.
-Forecasting and Scenario Analysis: Through the application of forecasting techniques including Simple Moving Average (SMA), Weighted Moving Average (WMA), and trendlines, I've projected future sales trends. Additionally, I've utilized Goal Seek, Scenario Manager, and Data Tables to conduct scenario analysis, enabling informed decision-making.
+
+Forecasting and Scenario Analysis: Through the application of forecasting techniques including Simple Moving Average (SMA), Weighted Moving Average (WMA), and trendlines, I've projected future sales trends. 
+
+Additionally, I've utilized Goal Seek, Scenario Manager, and Data Tables to conduct scenario analysis, enabling informed decision-making.
 
 ## Approach:
 
